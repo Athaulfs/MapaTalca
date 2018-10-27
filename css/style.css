@@ -23,6 +23,7 @@ h1 {
 }
 
 #wrapper {
+  float: middle;
   width: 750px;
 }
 
